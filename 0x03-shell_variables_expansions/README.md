@@ -8,4 +8,5 @@ This line creates script that creates an alias.
 8th line Create a script that creates a new global variable
 9th line Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 10th line Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
-11th line Write a script that displays the result of BREATH to the power LOVE  
+11th line Write a script that displays the result of BREATH to the power LOVE
+12th line Write a script that converts a number from base 2 to base 10  
