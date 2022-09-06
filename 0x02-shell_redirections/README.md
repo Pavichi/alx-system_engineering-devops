@@ -21,3 +21,5 @@ This script prints "Hello, World'followed by a new line to the standard output
 21st line Create a script that removes all letters c and C from input.
 22nd line Write a script that reverse its input.
 23rd line Write a script that displays all users and their home directories, sorted by users.
+24th line Writes a command that finds all empty files and directories in the current directory and all sub-directories.
+
