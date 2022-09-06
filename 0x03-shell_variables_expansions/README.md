@@ -5,4 +5,5 @@ This line creates script that creates an alias.
 5th line Create a script that lists environment variables.
 6th line Create a script that lists all local variables and environment variables, and functions.
 7th line Create a script that creates a new local variable
-8th line Create a script that creates a new global variable  
+8th line Create a script that creates a new global variable
+9th line Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.  
