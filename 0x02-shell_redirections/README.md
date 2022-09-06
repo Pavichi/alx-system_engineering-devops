@@ -11,3 +11,5 @@ This script prints "Hello, World'followed by a new line to the standard output
 11th script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 12th script counts the number of directories and sub-directories in the current directory.
 13th script displays the 10 newest files in the current directory.
+14th script takes a list of words as input and prints only words that appear exactly once.
+
