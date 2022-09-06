@@ -8,3 +8,4 @@ This script prints "Hello, World'followed by a new line to the standard output
 8th script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 9th script writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten
 10th line duplicates the last line of the file iacta
+11th script deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
