@@ -12,4 +12,4 @@ This script prints "Hello, World'followed by a new line to the standard output
 12th script counts the number of directories and sub-directories in the current directory.
 13th script displays the 10 newest files in the current directory.
 14th script takes a list of words as input and prints only words that appear exactly once.
-
+15th script Display lines containing the pattern “root” from the file /etc/passwd
