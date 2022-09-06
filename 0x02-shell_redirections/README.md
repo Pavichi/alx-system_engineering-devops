@@ -18,5 +18,5 @@ This script prints "Hello, World'followed by a new line to the standard output
 18th line Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 19th script Display all lines of the file /etc/ssh/sshd_config starting with a lette
 20th script Replace all characters A and c from input to Z and e respectiviy.
-el
+21st line Create a script that removes all letters c and C from input.
 
